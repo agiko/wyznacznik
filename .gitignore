@@ -1,0 +1,6 @@
+# ignoruj p[liki wykonywalne
+
+*.o
+*. out
+*.c-
+
